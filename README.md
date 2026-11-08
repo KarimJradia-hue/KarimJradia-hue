@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Karim 👋
 
-<!--
-**KarimJradia-hue/KarimJradia-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Analyst | Aspiring Data Professional
 
-Here are some ideas to get you started:
+I have a technical and industrial background and am currently developing my skills in Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+
+### Professional Background
+
+Technical experience in manufacturing, CNC machining, and industrial operations, with a focus on technical processes and problem-solving.
+
+### Career Objective
+
+Building a strong foundation in Data Analytics through continuous learning, practical exercises, and hands-on projects.
+
+### Learning Journey
+
+Committed to continuous improvement, developing technical skills, and applying analytical thinking to real-world challenges.
