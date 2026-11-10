@@ -1,8 +1,8 @@
 # Hi, I'm Karim 👋
 
-### Junior Data Analyst | Aspiring Data Professional
+### Industrial Professional | Data Engineering | Aspiring Data Professional
 
-I have a technical and industrial background and am currently developing my skills in Data Analytics.
+I have a technical and industrial background and am currently developing my skills in Data Engineering.
 
 ### Currently Learning
 
