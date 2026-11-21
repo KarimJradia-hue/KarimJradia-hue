@@ -1,24 +1,35 @@
+
 # Hi, I'm Karim 👋
 
-### Industrial Professional | Data Engineering | Aspiring Data Professional
+### Aspiring Full Stack Developer | Exploring AI-Powered Applications
 
-I have a technical and industrial background and am currently developing my skills in Data Engineering.
+I'm building my skills in Full Stack Development, with a growing interest in Artificial Intelligence and intelligent web applications.
 
-### Currently Learning
+I have a technical background and I'm currently developing my programming skills through structured learning and hands-on practice.
 
+### 🚀 Currently Learning
+
+- HTML5 & CSS3
+- JavaScript
+- React.js
 - Python
-- SQL
-- Microsoft Excel
-- Power BI
+- Full Stack Development
+- AI-Powered Applications
 
-### Professional Background
+### 🎯 My Learning Goals
 
-Technical experience in manufacturing, CNC machining, and industrial operations, with a focus on technical processes and problem-solving.
+- Build responsive and interactive web applications.
+- Develop full-stack applications.
+- Work with databases and APIs.
+- Integrate Artificial Intelligence into web applications.
+- Build practical projects and share my progress on GitHub.
 
-### Career Objective
+### 🛠️ Technologies
 
-Building a strong foundation in Data Analytics through continuous learning, practical exercises, and hands-on projects.
+HTML | CSS | JavaScript | React | Python
 
-### Learning Journey
+### 📌 About My Journey
 
-Committed to continuous improvement, developing technical skills, and applying analytical thinking to real-world challenges.
+I'm committed to learning step by step, improving my problem-solving skills, and building real-world applications.
+
+**My goal is to become a Full Stack AI Developer.**
